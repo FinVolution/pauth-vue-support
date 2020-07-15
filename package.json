@@ -1,0 +1,21 @@
+{
+  "name": "pauth-vue-support",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/pauth-vue-support.git"
+  },
+  "author": "lizhiming",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "jwt-decode": "^2.1.0",
+    "identicon.js": "^2.3.3",
+    "crypto": "^1.0.1"
+  }
+}
